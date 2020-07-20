@@ -1,0 +1,48 @@
+.headercs {
+    font-family: 'Mali', cursive;
+    /*ฟอต์น ต้องเอาตรง   link ลงก่อน*/
+    font-size: 80px;
+    background-color:#f4bcbc ;
+    /*สีพื้นหลัง*/
+    height: 250px;
+    width: 1990px;
+    /*ขนาดกรอบ*/
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    background-image: url(/public/images/BG.jpg);
+    color:black;
+    height: 768px;
+    width: 1990px;
+}
+.right {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+ select{ 
+    border-radius: 8px;
+    padding: 12px;
+    border: 2px solid #532b2b;
+    font-family: 'Mali', cursive;
+    /*ฟอต์น ต้องเอาตรง   link ลงก่อน*/
+    font-size: 25px;
+    background-color: white;}
+
+.footer {
+    background-color: #a88b8b;
+    padding: 10px;
+    text-align: left;
+    font-size: 25px;
+    color: black;
+    height: 150px;
+    width: 1970px;
+}
+.h2 {
+    text-align: left;
+  }
+
