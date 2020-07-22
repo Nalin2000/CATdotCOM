@@ -30,7 +30,6 @@
     padding: 12px;
     border: 2px solid #532b2b;
     font-family: 'Mali', cursive;
-    /*ฟอต์น ต้องเอาตรง   link ลงก่อน*/
     font-size: 25px;
     background-color: white;}
 
@@ -43,7 +42,3 @@
     height: 150px;
     width: 1970px;
 }
-.h2 {
-    text-align: left;
-  }
-
