@@ -14,10 +14,12 @@
     align-items: center;
 }
 .content {
-    background-image: url(/public/images/BG.jpg);
+   /* background-image: url(/public/images/BG.jpg);*/
     color:black;
     height: 768px;
     width: 1990px;
+    background-size: cover;
+
 }
 .right {
     display: flex;
